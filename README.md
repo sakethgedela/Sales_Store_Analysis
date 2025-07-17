@@ -1,6 +1,6 @@
 # Sales_Store_Analysis
 
-## Store backgroung
+## Store background
 A retail store chain tracks daily sales transactions including order details,customer info,product categories, order times and order status.The business wants to optimise operations, improve customer experience and increase profitability using data driven decisions
 
 ## Problem statements
